@@ -1,0 +1,25 @@
+{
+  "name": "TailwindCSS",
+  "version": "1.0.0",
+  "description": "The Repo has a sample Tailwind App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhavin789/TailwindCSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhavin789/TailwindCSS/issues"
+  },
+  "homepage": "https://github.com/Bhavin789/TailwindCSS#readme",
+  "dependencies": {
+    "autoprefixer": "^9.8.5",
+    "postcss-cli": "^7.1.1",
+    "tailwindcss": "^1.5.1"
+  }
+}
